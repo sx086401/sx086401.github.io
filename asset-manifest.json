@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.cdea5506.js",
+    "main.js": "/static/js/main.e73e2d10.js",
     "static/js/787.3ebab88b.chunk.js": "/static/js/787.3ebab88b.chunk.js",
     "static/media/Briar-Witch-Iseria-portrait.png": "/static/media/Briar-Witch-Iseria-portrait.d51b79fcea7e3c58c171.png",
     "static/media/star.png": "/static/media/star.11ae82c526a089754545.png",
     "static/media/eff.png": "/static/media/eff.746ab171a7b56cb8fa9e.png",
     "index.html": "/index.html",
-    "main.cdea5506.js.map": "/static/js/main.cdea5506.js.map",
+    "main.e73e2d10.js.map": "/static/js/main.e73e2d10.js.map",
     "787.3ebab88b.chunk.js.map": "/static/js/787.3ebab88b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.cdea5506.js"
+    "static/js/main.e73e2d10.js"
   ]
 }
